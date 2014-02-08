@@ -18,6 +18,7 @@ public class FlipFlop {
    		System.out.println(args[0]);
 
    		// si el numero es divisible dentro de 3 imprima "Flip"
+
 			System.out.println("Flip");
 
    		// si el numero es divisible dentro de 5 imprima "Flop"
